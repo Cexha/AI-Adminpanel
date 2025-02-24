@@ -7,4 +7,4 @@ Website olacak şekilde AI tarafından kontrol edilen website
 # Contact & Support & Donate
 Yakında
 
-[![Discord Banner](https://api.weblutions.com/discord/invite/hsKQhtWBep/)(https://discord.gg/hsKQhtWBep)
+[![Discord Banner](https://api.weblutions.com/discord/invite/hsKQhtWBep)(https://discord.gg/hsKQhtWBep)
